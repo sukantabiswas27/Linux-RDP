@@ -41,3 +41,9 @@ sudo apt-get update && sudo apt-get install cloudflare-warp
 1.Downlod the Timedocto.run instalation file
 2.Right click the Timedocto.run instalation file and click properties ==> then ckick Permissions =>mek sure Allow Executing file as program is Chack
 3.Right click the Timedocto.run file and click Run a Program
+
+--------------------------------Browse with Microsoft Edge across all of your devices---------------------------
+Link - https://www.microsoft.com/en-us/edge/download?form=MA13FJ
+
+Downlod Link === 
+https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_127.0.2651.105-1_amd64.deb?brand=M102
